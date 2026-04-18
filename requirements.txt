@@ -1,0 +1,27 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Synthetic Data Generation
+sdv
+
+# Advanced ML Models
+xgboost
+lightgbm
+# For deep learning (LSTM)
+tensorflow
+keras
+
+# Financial Data
+yfinance
+
+# Deployment
+streamlit
+
+# Jupyter
+notebook
+ipykernel
+kaggle
